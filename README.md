@@ -19,6 +19,8 @@
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![FMOD](https://img.shields.io/badge/-FMOD-000000?style=flat-square&logo=fmod&logoColor=white)
+![Steamworks API](https://img.shields.io/badge/-Steamworks-003A5F?style=flat-square&logo=steam&logoColor=white)
 
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![GIMP](https://img.shields.io/badge/-GIMP-575040?style=flat-square&logo=gimp&logoColor=white)
