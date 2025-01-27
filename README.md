@@ -14,7 +14,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat-square&logo=linux&logoColor=black)
 
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
